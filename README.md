@@ -6,4 +6,4 @@
 - Buka program aplikasi dengan browser, lalu ketikan alamat: http://localhost/nama_folder_aplikasi/
 - Login dengan <b>username: admin - password: admin</b>
 
-- Instagram: @arjum_nr
+- https://anr.my.id/arjum_nr/
